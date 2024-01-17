@@ -8,3 +8,9 @@
 |Tenure|enure of customer in organization|
 |PreferredLoginDevice|Preferred login device of customer|
 |CityTier|City Tier|
+|WarehouseToHome|Distance in between warehouse to home of customer|
+|PreferredPaymentMode|Preferred payment method of customer|
+|Gender|Gender of customer|
+|HourSpendOnApp|Number of hours spend on mobile application or website|
+|NumberOfDeviceRegistered|Total number of deceives is registered on particular customer|
+|PreferedOrderCat|Preferred order category of customer in last month|
