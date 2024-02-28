@@ -25,4 +25,4 @@ Churn prediction is identifying customers that are most likely to live a service
 |DaySinceLastOrder|Day Since last order by customer|
 |CashbackAmount|Average cashback in last month|
 
-### Still on Progress
+### - Descriptions
